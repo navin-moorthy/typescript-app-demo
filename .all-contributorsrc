@@ -1,0 +1,26 @@
+{
+	"badgeTemplate": "\t<a href=\"#contributors\" target=\"_blank\"><img alt=\"👪 All Contributors: <%= contributors.length %>\" src=\"https://img.shields.io/badge/%F0%9F%91%AA_all_contributors-<%= contributors.length %>-21bb42.svg\" /></a>",
+	"contributors": [
+		{
+			"avatar_url": "https://avatars.githubusercontent.com/u/39694575?v=4",
+			"contributions": [
+				"code",
+				"content",
+				"doc",
+				"ideas",
+				"infra",
+				"maintenance",
+				"projectManagement",
+				"tool"
+			],
+			"login": "navin-moorthy",
+			"name": "Navin Moorthy",
+			"profile": "https://navinmoorthy.me/"
+		}
+	],
+	"contributorsSortAlphabetically": true,
+	"projectName": "typescript-app-demo",
+	"projectOwner": "navin-moorthy",
+	"repoType": "github",
+	"commitConvention": "angular"
+}
